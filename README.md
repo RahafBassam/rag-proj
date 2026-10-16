@@ -39,3 +39,8 @@ $ cp .env.example .env
 ```
 
 Set your environment variables in the `.env` file. Like `OPENAI_API_KEY` value.
+
+
+###You Can test V1 for this project by this link :
+https://nour-cafe-demo.streamlit.app/ 
+Anyone needs to try this,contact me to providing password for chat project
